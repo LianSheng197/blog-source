@@ -1,8 +1,8 @@
 ---
-title: 隨筆（20.04.07）
+title: 隨筆
 categories:
   - 隨筆
-tags: [生活, 經濟]
+tags: [misc]
 date: 2020-04-07 01:29:27
 ---
 
